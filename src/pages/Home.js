@@ -4,7 +4,9 @@ import HomeComp from '../components/HomeComp/HomeComp';
 const Home = () => {
   return (
     <div>
+
         <HomeComp />
+        
     </div>
   )
 }

@@ -3,7 +3,10 @@ import './contactComp.css'
 
 const ContactComp = () => {
   return (
-    <div>ContactComp</div>
+    <div className='main-container'>
+      Email: tryarc@comcast.net<br></br>
+      https://github.com/SamuraiHuey
+    </div>
   )
 }
 
